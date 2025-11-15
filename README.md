@@ -1,76 +1,45 @@
-<div align="center">
-🚀 Automação de Relatórios Diários com Python
-💼 Automatizando processos para aumentar eficiência e eliminar tarefas repetitivas
-<br> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200"> </div>
-🧠 Sobre o Projeto
 
-Este projeto foi desenvolvido para automatizar uma rotina comum em diversas empresas:
-📌 baixar planilhas, 📌 calcular indicadores e 📌 enviar relatórios por e-mail.
+## 🚀 Automação de Relatórios Diários com Python
+📌 Sobre o Projeto
 
-Tudo isso é feito automaticamente, assim que o script é executado.
+Automação que abre o navegador, baixa a planilha de vendas, calcula indicadores e envia um e-mail com o relatório — tudo automaticamente.
 
 ⚙️ Tecnologias Utilizadas
-<div align="center">
-💻 Tecnologia	🔧 Função
-Python	Linguagem principal
-PyAutoGUI	Automação de interface
-Pandas	Leitura e análise dos dados
-Pyperclip	Copiar e colar textos
-Time	Controle de intervalos
-</div>
-🔥 O que essa automação faz?
 
-👉 Abre o navegador automaticamente
-👉 Acessa o Google Drive
-👉 Baixa a planilha de vendas
-👉 Lê os dados e calcula:
+Python
 
-💰 Faturamento total
+PyAutoGUI
 
-📦 Quantidade de produtos vendidos
-👉 Abre o Gmail
-👉 Escreve e envia um e-mail com o relatório formatado
+Pandas
 
-📊 Por que isso é útil para empresas?
+Pyperclip
 
-💡 Reduz tempo gasto com tarefas manuais
-💡 Elimina erros humanos
-💡 Garante pontualidade nos relatórios
-💡 Melhora a produtividade do time
-💡 Pode ser aplicado em diversas áreas:
+Time
 
-Comercial
+🛠️ O que a automação faz
 
-Financeiro
+Acessa o Google Drive
 
-Operações
+Baixa a planilha de vendas
 
-Logística
+Lê os dados e calcula:
 
-BI
+Faturamento total
 
-RH
+Quantidade de produtos vendidos
 
-🧩 Fluxo da Automação
-flowchart TD
-    A[Abrir o navegador] --> B[Acessar Google Drive]
-    B --> C[Baixar planilha]
-    C --> D[Ler dados com Pandas]
-    D --> E[Calcular indicadores]
-    E --> F[Gerar e-mail]
-    F --> G[Enviar relatório]
+Abre o Gmail
 
-<div align="center">
-✨ Resultados Automáticos
-Faturamento, quantidade vendida e relatório prontos em segundos.
-Menos trabalho repetitivo. Mais produtividade.
-</div>
-👩‍💻 Autora
-<div align="center">
-Ludymilla Almeida
+Gera e envia o e-mail automático com o relatório do dia
 
-Analista de dados | Python | Automação | Dados
-📧 almeidaludymilla6@gmail.com
+📊 Benefícios para Empresas
 
-</div>
+Economiza tempo
 
+Reduz erros manuais
+
+Padroniza relatórios
+
+Aumenta a produtividade
+
+Ajuda áreas como comercial, financeiro, logística e operações.
